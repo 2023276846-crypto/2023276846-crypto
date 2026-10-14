@@ -1,7 +1,7 @@
 
 # Hi, I'm Amirul Syahmi 
 
-### Computer Science Student | Web Development | Networking | IT Support
+### Computer Science Netcentric Computing Student | Web Development | Networking | IT Support
 
 I'm a final-year Bachelor of Computer Science (Hons.) Netcentric Computing student at Universiti Teknologi MARA (UiTM), Shah Alam.
 
