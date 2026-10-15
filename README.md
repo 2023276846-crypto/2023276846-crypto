@@ -72,4 +72,4 @@ September 2026 - December 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirul-syahmi-mahadzir/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2023276846-crypto)
+[![GitHub](https://img.shields.io/badge/GitHub-View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirul-syahmi-mahadzir)
