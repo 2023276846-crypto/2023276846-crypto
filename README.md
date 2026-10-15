@@ -46,7 +46,22 @@ A web-based recruitment platform designed to support employment opportunities fo
 
 **Technologies:** Laravel, Vue.js, MySQL, DigitalOcean
 
-[View AbilityScan Repository](https://github.com/2023276846-crypto/AbilityScan)
+[View AbilityScan Repository](https://github.com/amirul-syahmi-mahadzir/AbilityScan)
+
+### Computer Networking Labs
+
+Hands-on networking labs using Cisco Packet Tracer.
+
+**Topics Covered:**
+- VLAN Configuration and Trunking
+- Inter-VLAN Routing
+- DHCP Configuration
+- IP Addressing and Subnetting
+- Network Connectivity Testing
+
+**Tools:** Cisco Packet Tracer
+
+[View Networking Labs](https://github.com/amirul-syahmi-mahadzir/Computer-Networking_Labs)
 
 ## Industrial Training Experience
 
